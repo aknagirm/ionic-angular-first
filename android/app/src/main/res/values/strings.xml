@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ionic-angular-first</string>
+    <string name="title_activity_main">ionic-angular-first</string>
+    <string name="package_name">com.ionicangular.first</string>
+    <string name="custom_url_scheme">com.ionicangular.first</string>
+</resources>
